@@ -2,7 +2,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/72028549/219853798-ce203700-8bbb-4cfd-8f71-4f289eb9cecc.gif)
 
-Hey guys!
+Do u wanna draw?
 
 THERE ARE 3 VERSIONS OF PAINT-WALL WHICH I EXPLAINED THE 2.0 VERSION HERE!
 The version 3.0 doesn't need any manuals!
