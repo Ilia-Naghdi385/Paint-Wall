@@ -1,4 +1,7 @@
 # Paint-Wall
+
+![giphy](https://user-images.githubusercontent.com/72028549/219853798-ce203700-8bbb-4cfd-8f71-4f289eb9cecc.gif)
+
 Hey guys!
 
 "Manuals"
