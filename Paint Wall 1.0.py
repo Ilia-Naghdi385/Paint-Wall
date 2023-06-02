@@ -41,17 +41,3 @@ color(cn)
 pensize(siz)
 speed(sor)
 setup(width=w,height=e)
-
-    
-
-
-
-
-
-    
-
-        
-
-
-
-
