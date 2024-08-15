@@ -42,5 +42,5 @@ You can bring back the pen by pressing the Y button.
 By pressing the A button, you can choose the shape of the font again according to the given items. 
 And finally, by pressing the G button on the keyboard, you can change the background color and frame size again.
 
-Thank you very much for using our app:)
+Thank you very much!
 Paint Wall.
